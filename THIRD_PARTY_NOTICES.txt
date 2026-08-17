@@ -1,0 +1,42 @@
+ClipFetch - Componentes de terceiros
+=========================================
+
+Este aplicativo distribui componentes de terceiros. Cada componente permanece
+sujeito aos seus próprios termos de licença.
+
+yt-dlp
+------
+Projeto: https://github.com/yt-dlp/yt-dlp
+O executável oficial para macOS é distribuído pelo projeto yt-dlp.
+A documentação do projeto informa que os executáveis standalone baseados em
+PyInstaller incluem componentes GPLv3+ e que o trabalho combinado desses
+executáveis é GPLv3+.
+Consulte também o arquivo THIRD_PARTY_LICENSES.txt do próprio projeto yt-dlp.
+
+FFmpeg / FFprobe
+----------------
+Projeto: https://ffmpeg.org/
+A licença exata do FFmpeg depende das opções usadas no build.
+Nesta distribuição, FFmpeg/FFprobe são obtidos da fórmula Homebrew instalada
+na máquina que constrói o aplicativo. Consulte a configuração e a licença
+reportadas por esse build antes de redistribuir amplamente.
+
+Deno
+----
+Projeto: https://deno.com/ e https://github.com/denoland/deno
+Deno é distribuído de acordo com a licença do projeto.
+
+PySide6 / Qt for Python
+-----------------------
+Projeto: https://doc.qt.io/qtforpython/
+Consulte as opções de licenciamento do Qt for Python para o seu caso de uso.
+
+PyInstaller
+-----------
+Projeto: https://pyinstaller.org/
+Usado somente para gerar o bundle do aplicativo.
+
+Observação
+----------
+Este arquivo é um resumo de atribuição e não substitui os textos de licença
+dos projetos originais.

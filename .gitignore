@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+.pytest_cache/
+
+# PyInstaller / distribution
+build/
+dist/
+dmg-root/
+*.app
+*.dmg
+
+# Build-time downloaded dependencies
+vendor-src/
+
+# Local runtime state
+*.sqlite3
+*.db
+download-archive.txt
+config.json
+crash.log
+*.log
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "code": "pt-BR",
+    "date_format": "dd/MM/yyyy",
+    "datetime_format": "dd/MM/yyyy HH:mm",
+    "name": "Portuguese (Brazil)",
+    "native_name": "Português (Brasil)"
+  },
+  "replacements": {},
+  "strings": {
+    "Apply": "Aplicar",
+    "Cancel": "Cancelar",
+    "Close": "Fechar",
+    "No": "Não",
+    "Save": "Salvar",
+    "Yes": "Sim"
+  }
+}

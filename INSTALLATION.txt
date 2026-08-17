@@ -1,0 +1,20 @@
+ClipFetch — Instalação no macOS
+==============================
+
+Para instalar:
+1. Abra o arquivo ClipFetch_macOS_<arquitetura>.dmg.
+2. Arraste ClipFetch.app para a pasta Applications/Aplicativos.
+3. Abra ClipFetch pela pasta Aplicativos, Launchpad ou Spotlight.
+
+O Mac do usuário não precisa instalar Python, Homebrew, yt-dlp, FFmpeg ou Deno.
+
+Primeira abertura
+-----------------
+Este build usa assinatura ad-hoc. Enquanto o projeto não usar Developer ID +
+notarização Apple, o macOS pode mostrar um aviso do Gatekeeper. Nesse caso,
+use Ajustes do Sistema > Privacidade e Segurança > Abrir Mesmo Assim.
+
+Uso responsável
+---------------
+Use o ClipFetch apenas para conteúdo que você tenha direito ou autorização
+para baixar e respeite os termos do serviço de origem.
